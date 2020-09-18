@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4b5ae62-1bfc-4e21-9c33-c30ba46e632d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java\mavenRepository" />
+        <option name="userSettingsFile" value="D:\java\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h7OvxHJ2JKnsf267UByiftyjOL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.55793023" />
+  </component>
+  <component name="RunManager" selected="Application.Applaction2">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jave.util.App" />
+      <module name="JAVEUtil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jave.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Applaction2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jave.util.Applaction2" />
+      <module name="JAVEUtil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jave.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JAVEUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jave.util.JAVEUtils" />
+      <module name="JAVEUtil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jave.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Applaction2" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.JAVEUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4b5ae62-1bfc-4e21-9c33-c30ba46e632d" name="Default Changelist" comment="" />
+      <created>1599358897337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599358897337</updated>
+      <workItem from="1599358898787" duration="12357000" />
+      <workItem from="1599530082748" duration="4765000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1599373420157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1599373420157" />
+    <state x="1010" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599371488730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1010" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599371488730" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1599532264959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599532264959" />
+    <state x="634" y="260" key="FileChooserDialogImpl" timestamp="1599358955328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599358955328" />
+    <state width="1876" height="237" key="GridCell.Tab.0.bottom" timestamp="1599538027013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599538027013" />
+    <state width="1876" height="237" key="GridCell.Tab.0.center" timestamp="1599538027013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="237" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599538027013" />
+    <state width="1876" height="237" key="GridCell.Tab.0.left" timestamp="1599538027013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="237" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599538027013" />
+    <state width="1876" height="237" key="GridCell.Tab.0.right" timestamp="1599538027013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="237" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599538027013" />
+    <state width="1876" height="216" key="GridCell.Tab.1.bottom" timestamp="1599380136825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="216" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599380136825" />
+    <state width="1876" height="216" key="GridCell.Tab.1.center" timestamp="1599380136825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="216" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599380136825" />
+    <state width="1876" height="216" key="GridCell.Tab.1.left" timestamp="1599380136825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="216" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599380136825" />
+    <state width="1876" height="216" key="GridCell.Tab.1.right" timestamp="1599380136825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="216" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599380136825" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1599531349866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599531349866" />
+    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1599373419397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1599373419397" />
+    <state x="334" y="214" key="new project wizard" timestamp="1599358932596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599358932596" />
+  </component>
+</project>
